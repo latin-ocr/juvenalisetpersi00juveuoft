@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./juvenalisetpersi00juveuoft_0007.png"; bbox 0 0 1284 1922; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 434 653 919 691">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 434 653 919 691">
+     <span class='ocr_line' id='line_1_1' title="bbox 434 653 919 691; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 434 655 661 691; x_wconf 89' lang='lat' dir='ltr'>MONITUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 686 653 919 689; x_wconf 85' lang='lat' dir='ltr'>LECTORIS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 189 797 1161 1034">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 189 797 1161 1034">
+     <span class='ocr_line' id='line_1_2' title="bbox 239 797 1161 833; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 239 797 282 832; x_wconf 79' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_4' title='bbox 307 798 373 832; x_wconf 73' lang='lat' dir='ltr'>hac</span> <span class='ocrx_word' id='word_1_5' title='bbox 399 798 549 832; x_wconf 75' lang='lat' dir='ltr'>editione</span> <span class='ocrx_word' id='word_1_6' title='bbox 574 801 712 832; x_wconf 75' lang='lat' dir='ltr'><strong>textum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 740 798 937 833; x_wconf 78' lang='lat' dir='ltr'><strong>Heinrichji</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 965 798 1076 833; x_wconf 78' lang='lat' dir='ltr'>secuti</span> <span class='ocrx_word' id='word_1_9' title='bbox 1104 809 1161 832; x_wconf 83' lang='lat' dir='ltr'>su-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 189 893 1160 939; baseline 0.001 -12"><span class='ocrx_word' id='word_1_10' title='bbox 189 903 279 936; x_wconf 84' lang='lat' dir='ltr'>mus,</span> <span class='ocrx_word' id='word_1_11' title='bbox 296 893 407 927; x_wconf 72' lang='lat' dir='ltr'>varias</span> <span class='ocrx_word' id='word_1_12' title='bbox 429 894 593 928; x_wconf 81' lang='lat' dir='ltr'>lectiones</span> <span class='ocrx_word' id='word_1_13' title='bbox 615 906 802 939; x_wconf 82' lang='lat' dir='ltr'>perpaucas</span> <span class='ocrx_word' id='word_1_14' title='bbox 827 895 1028 939; x_wconf 85' lang='lat' dir='ltr'>adjecimus,</span> <span class='ocrx_word' id='word_1_15' title='bbox 1051 894 1160 928; x_wconf 77' lang='lat' dir='ltr'><strong>vitam</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 192 986 1159 1034; baseline -0.001 -11"><span class='ocrx_word' id='word_1_16' title='bbox 192 986 376 1023; x_wconf 83' lang='lat' dir='ltr'><strong>Juvenalis</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 418 992 453 1022; x_wconf 79' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_18' title='bbox 493 988 602 1022; x_wconf 80' lang='lat' dir='ltr'><strong>Persii</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 641 989 902 1034; x_wconf 75' lang='lat' dir='ltr'>praeposuimus,</span> <span class='ocrx_word' id='word_1_20' title='bbox 939 989 1159 1033; x_wconf 82' lang='lat' dir='ltr'>iudicemque</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 193 1080 837 1127">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 193 1080 837 1127">
+     <span class='ocr_line' id='line_1_5' title="bbox 193 1080 837 1127; baseline 0.002 -12"><span class='ocrx_word' id='word_1_21' title='bbox 193 1080 388 1123; x_wconf 77' lang='lat' dir='ltr'><strong>Nominum</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 403 1082 620 1127; x_wconf 82' lang='lat' dir='ltr'>propriorum</span> <span class='ocrx_word' id='word_1_23' title='bbox 636 1082 837 1127; x_wconf 78' lang='lat' dir='ltr'>adjecimus.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
